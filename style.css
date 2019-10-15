@@ -1,0 +1,112 @@
+body {
+    background: url(../media/pattern.jpg)
+}
+
+.logo {
+    padding-left: 33px;
+}
+
+.nav ul {
+    list-style: none;
+    margin-top: 40px;
+}
+
+.nav li {
+    display: inline;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #111111;
+}
+
+.hero-outer {
+    background-color: #a0c63f;
+}
+
+.hero {
+    padding-left: 130px;
+}
+
+.body-one {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+}
+
+.body-one img {
+    border-radius: 50%;
+}
+
+.outer-box {
+    background-color: #ffffff;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: solid 1px #eeeeee; 
+}
+
+.absolute {
+    padding: 10%;
+    border: 20px solid #fff;
+    box-shadow: 0 0 0 1px #eeeeee;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: #8eb53e;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+.two {
+    margin-left: 200px;
+    padding-bottom: 35px;
+}
+
+.third {
+    margin-left: 25px;
+}
+
+.body-two img {
+    padding-bottom: 25px;
+}
+
+.body-three {
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+
+span {
+    color:#a0c63f;
+}
+
+.body-four {
+    background-color: #ffffff;
+    border-top: 1px solid #eeeeee;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.body-four p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.dots{
+    border-bottom: dotted 2px #acacac;
+}
+
+form {
+    padding-top: 20px;
+}

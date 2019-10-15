@@ -1,0 +1,79 @@
+body {
+    background: url(../media/pattern.jpg)
+}
+
+.logo {
+    padding-left: 33px;
+}
+
+.nav ul {
+    list-style: none;
+    margin-top: 40px;
+}
+
+.nav li {
+    display: inline;
+    text-transform: uppercase;
+    padding-left: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #111111;
+}
+
+header {
+    border-bottom: solid 35px #8eb53e;
+    margin-bottom: 50px;
+}
+
+
+.box {
+    height: ;
+    width: ;
+}
+
+.body-one-two { 
+    background-color: #ffff;
+    box-shadow: 0 0 0 1px #eeeeee;
+    margin-left: 90px;
+    padding: 50px 0px 50px 0px;
+    display: inline-block;
+}
+
+
+h2 {
+    text-transform: uppercase;
+    border-bottom: dotted 2px #acacac;
+}
+
+
+.body-four {
+    background-color: #ffffff;
+    border-top: 1px solid #eeeeee;
+    margin-top: 100px; 
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+
+.body-four p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.dots {
+    border-bottom: dotted 2px #acacac;
+}
+
+form {
+    padding-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 100px;
+}
